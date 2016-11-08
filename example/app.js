@@ -4,11 +4,14 @@ var bodyParser  = require('body-parser');
 var mongoose    = require('mongoose');
 var app         = express();
 var port        = 3000;
+var database    = require('./app/config');
 
-var MONGO_URL   = 'mongodb://localhost/hello-mean';
 
 // Sets the connection to MongoDB
-mongoose.connect(MONGO_URL);
+mongoose.connect(database.localtest.url);
+
+// Populate database with sample data
+require('./app/seed')
 
 // Configuration
 // app.set('views', path.join(__dirname, 'views')); // view engine setup
