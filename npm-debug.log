@@ -1,0 +1,114 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'mongoose',
+1 verbose cli   '--save' ]
+2 info using npm@2.14.7
+3 info using node@v4.2.3
+4 verbose install initial load of E:\Projects\WebClub\Repositories\hello-mean-stack\package.json
+5 warn package.json hello-mean-stack@1.0.0 No description
+6 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\accepts\package.json
+7 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\array-flatten\package.json
+8 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\body-parser\package.json
+9 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\bytes\package.json
+10 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\content-disposition\package.json
+11 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\content-type\package.json
+12 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\cookie\package.json
+13 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\cookie-signature\package.json
+14 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\debug\package.json
+15 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\depd\package.json
+16 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\destroy\package.json
+17 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\ee-first\package.json
+18 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\encodeurl\package.json
+19 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\escape-html\package.json
+20 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\etag\package.json
+21 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\express\package.json
+22 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\finalhandler\package.json
+23 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\forwarded\package.json
+24 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\fresh\package.json
+25 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\http-errors\package.json
+26 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\iconv-lite\package.json
+27 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\inherits\package.json
+28 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\ipaddr.js\package.json
+29 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\media-typer\package.json
+30 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\merge-descriptors\package.json
+31 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\method-override\package.json
+32 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\methods\package.json
+33 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\mime\package.json
+34 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\mime-db\package.json
+35 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\mime-types\package.json
+36 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\ms\package.json
+37 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\negotiator\package.json
+38 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\on-finished\package.json
+39 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\parseurl\package.json
+40 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\path-to-regexp\package.json
+41 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\proxy-addr\package.json
+42 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\qs\package.json
+43 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\range-parser\package.json
+44 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\raw-body\package.json
+45 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\send\package.json
+46 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\serve-static\package.json
+47 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\setprototypeof\package.json
+48 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\statuses\package.json
+49 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\type-is\package.json
+50 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\unpipe\package.json
+51 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\utils-merge\package.json
+52 verbose installManyTop reading scoped package data from E:\Projects\WebClub\Repositories\hello-mean-stack\node_modules\vary\package.json
+53 info package.json mime@1.3.4 No license field.
+54 info package.json ms@0.7.1 No license field.
+55 info package.json utils-merge@1.0.0 No license field.
+56 verbose readDependencies loading dependencies from E:\Projects\WebClub\Repositories\hello-mean-stack\package.json
+57 silly cache add args [ 'mongoose', null ]
+58 verbose cache add spec mongoose
+59 silly cache add parsed spec Result {
+59 silly cache add   raw: 'mongoose',
+59 silly cache add   scope: null,
+59 silly cache add   name: 'mongoose',
+59 silly cache add   rawSpec: '',
+59 silly cache add   spec: '*',
+59 silly cache add   type: 'range' }
+60 silly addNamed mongoose@*
+61 verbose addNamed "*" is a valid semver range for mongoose
+62 silly addNameRange { name: 'mongoose', range: '*', hasData: false }
+63 silly mapToRegistry name mongoose
+64 silly mapToRegistry using default registry
+65 silly mapToRegistry registry https://registry.npmjs.org/
+66 silly mapToRegistry uri https://registry.npmjs.org/mongoose
+67 verbose addNameRange registry:https://registry.npmjs.org/mongoose not in flight; fetching
+68 verbose request uri https://registry.npmjs.org/mongoose
+69 verbose request no auth needed
+70 info attempt registry request try #1 at 11:06:19 AM
+71 verbose request id 36e048b6910044b8
+72 http request GET https://registry.npmjs.org/mongoose
+73 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=socket hang up
+74 info attempt registry request try #2 at 11:06:29 AM
+75 http request GET https://registry.npmjs.org/mongoose
+76 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=socket hang up
+77 info attempt registry request try #3 at 11:07:29 AM
+78 http request GET https://registry.npmjs.org/mongoose
+79 verbose stack Error: tunneling socket could not be established, cause=socket hang up
+79 verbose stack     at ClientRequest.onError (C:\Program Files\nodejs\node_modules\npm\node_modules\request\node_modules\tunnel-agent\index.js:174:17)
+79 verbose stack     at ClientRequest.g (events.js:260:16)
+79 verbose stack     at emitOne (events.js:77:13)
+79 verbose stack     at ClientRequest.emit (events.js:169:7)
+79 verbose stack     at TLSSocket.socketErrorListener (_http_client.js:259:9)
+79 verbose stack     at emitOne (events.js:77:13)
+79 verbose stack     at TLSSocket.emit (events.js:169:7)
+79 verbose stack     at emitErrorNT (net.js:1253:8)
+79 verbose stack     at doNTCallback2 (node.js:441:9)
+79 verbose stack     at process._tickCallback (node.js:355:17)
+80 verbose cwd E:\Projects\WebClub\Repositories\hello-mean-stack
+81 error Windows_NT 6.1.7601
+82 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "mongoose" "--save"
+83 error node v4.2.3
+84 error npm  v2.14.7
+85 error code ECONNRESET
+86 error network tunneling socket could not be established, cause=socket hang up
+86 error network This is most likely not a problem with npm itself
+86 error network and is related to network connectivity.
+86 error network In most cases you are behind a proxy or have bad network settings.
+86 error network
+86 error network If you are behind a proxy, please make sure that the
+86 error network 'proxy' config is set properly.  See: 'npm help config'
+87 verbose exit [ 1, true ]
