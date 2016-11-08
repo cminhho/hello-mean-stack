@@ -6,7 +6,6 @@ var app         = express();
 var port        = 3000;
 var database    = require('./app/config');
 
-
 // Sets the connection to MongoDB
 mongoose.connect(database.localtest.url);
 
@@ -22,10 +21,6 @@ app.use(bodyParser.urlencoded({extended: true}));
 
 // Routes
 require('./app/routes.js')(app);
-
-// app.get('/', function(req, res){
-//   res.send('Hello Express');
-// });
 
 // Error handler
 
